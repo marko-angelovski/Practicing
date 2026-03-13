@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Serilization/Excercise1/Excercise1.iml" filepath="$PROJECT_DIR$/Serilization/Excercise1/Excercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture1CIP/Excercise2/Excercise2.iml" filepath="$PROJECT_DIR$/Lecture1CIP/Excercise2/Excercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture1CIP/Excercise3/Excercise3.iml" filepath="$PROJECT_DIR$/Lecture1CIP/Excercise3/Excercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture1CIP/Excercise4/Excercise4.iml" filepath="$PROJECT_DIR$/Lecture1CIP/Excercise4/Excercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture1CIP/Excercise5/Excercise5.iml" filepath="$PROJECT_DIR$/Lecture1CIP/Excercise5/Excercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture1CIP/Excercise6/Excercise6.iml" filepath="$PROJECT_DIR$/Lecture1CIP/Excercise6/Excercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture1CIP/Excercise7/Excercise7.iml" filepath="$PROJECT_DIR$/Lecture1CIP/Excercise7/Excercise7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture1CIP/Lecture1CIP.iml" filepath="$PROJECT_DIR$/Lecture1CIP/Lecture1CIP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practicing.iml" filepath="$PROJECT_DIR$/Practicing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Serilization/Serilization.iml" filepath="$PROJECT_DIR$/Serilization/Serilization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Serilization/SerilizationWithInheritance/SerilizationWithInheritance.iml" filepath="$PROJECT_DIR$/Serilization/SerilizationWithInheritance/SerilizationWithInheritance.iml" />
